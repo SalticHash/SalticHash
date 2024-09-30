@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Principal
+{% endblock %}
+
+
+{% block header %}
+    <h1 class="section-title">¡Estos son todos mis proyectos actuales!</h1>
+{% endblock %}
+
+{% block main %}
+    {% for category in categories %}
+        <hr>
+        <section>
+            {% set categoty_lang = lang[category.id] %}
+            {% set cat_name = categoty_lang.title %}
+            <h1 class="section-title">{{ cat_name }}</h1>
+
+            <div class="card-grid">
+                {% for project in category.content %}
+                    {% set game_lang = categoty_lang[project.id] %}
+                    {% set proj_name = game_lang.name %}
+                    {% set proj_desc = game_lang.desc %}
+                    <div class="card">
+                        <img src="/static/assets/images/{{ project.image }}.png" alt="{{ proj_name }} Banner">
+                        <div class="card-info">
+                            <a target="_blank" class="name" href="{{ project.url }}">{{ proj_name }}</a>
+                            <div class="desc">{{ proj_desc }}</div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </section>
+    {% endfor %}
+    <hr>
+{% endblock %}
