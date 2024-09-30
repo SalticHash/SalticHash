@@ -1,0 +1,66 @@
+# ESPANOL
+
+
+# Projects under 'Games'
+[games]
+title = "Juegos"
+
+[games.pollimath]
+name = "PolliMath"
+desc = "Un juego de un pollito y ¿Algebra?"
+
+[games.circulatory_system]
+name = "Sistema Circulatorio"
+desc = "¡Estudia sobre las funciones del sistema circulatorio!"
+
+[games.gegagedigedagedago]
+name = "Gegagedigedagedago VS"
+desc = "Lucha contra el huevo malvado!!!1!!1"
+
+[games.space_arithmetic]
+name = "Aritmética Espacial"
+desc = "Juego de aritmética básica."
+
+[games.habanero_cheese]
+name = "Habanero Cheese"
+desc = "Un queso de habanero que quema basura..."
+
+# Projects under 'Websites'
+[web]
+title = "Páginas Web"
+
+[web.celebration_envelopes]
+name = "Celebration Envelopes"
+desc = "¡Crea 'cartas' de celebración para tus conocidos!"
+
+[web.midinotes]
+name = "MidiNotes"
+desc = "¡Conecta tu teclado y practica toda canción en Midi!"
+
+[web.secret_santa]
+name = "Amigo Secreto"
+desc = "¿Estresado porque los Amigos Secreto se cortan? ¡Pues este no!"
+
+[web.tileset_assembler]
+name = "Tileset Assembler"
+desc = "Haz que los tilesets de Pizza Tower no den Lag! Tambien esconde las colisiones!"
+
+[web.coolrhythms]
+name = "CoolRhythms"
+desc = "¡El sitio web del Youtuber de música CoolRhythms!"
+
+[web.copes_timetable]
+name = "Horario Copes 9-4°"
+desc = "¿Te pierdes fácil? ¡Este horario cambia con el día y te dice qué lección sigue!"
+
+[web.darker]
+name = "Darker."
+desc = "Alivia tus ojos con modo oscuro en todos los sitios web."
+
+# Projects under 'Mods'
+[mods]
+title = "Mods"
+
+[mods.bocs]
+name = "Bunch Of Complex Stuff (BOCS)"
+desc = "Triggers de GD en Pizza Tower."

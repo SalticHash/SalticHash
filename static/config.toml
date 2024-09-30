@@ -1,0 +1,70 @@
+[[projects]]
+id = "games"
+    [[projects.content]]
+    id = "pollimath"
+    url = "https://redustmaniac.itch.io/pollimath"
+    image = "pollimath"
+
+    [[projects.content]]
+    id = "circulatory_system"
+    url = "https://redustmaniac.itch.io/sistema-circulatorio"
+    image = "sistemacirculatorio"
+
+    [[projects.content]]
+    id = "gegagedigedagedago"
+    url = "https://redustmaniac.itch.io/gegagedigedagedago-vs"
+    image = "vs"
+
+    [[projects.content]]
+    id = "space_arithmetic"
+    url = "https://redustmaniac.itch.io/aritmetica-espacial"
+    image = "espacio"
+
+    [[projects.content]]
+    id = "habanero_cheese"
+    url = "https://redustmaniac.itch.io/habanero-cheese"
+    image = "habanero"
+
+[[projects]]
+id = "web"
+    [[projects.content]]
+    id = "celebration_envelopes"
+    url = "https://celebration-envelopes.vercel.app/"
+    image = "celebration-envelopes"
+
+    [[projects.content]]
+    id = "midinotes"
+    url = "https://midinotes.vercel.app/"
+    image = "midi-notes"
+
+    [[projects.content]]
+    id = "secret_santa"
+    url = "https://amigos-secretos.netlify.app/"
+    image = "amigosecreto"
+
+    [[projects.content]]
+    id = "tileset_assembler"
+    url = "https://tileset-assembler.vercel.app/"
+    image = "tileset_assembler"
+
+    [[projects.content]]
+    id = "coolrhythms"
+    url = "https://coolrhythms.netlify.app/"
+    image = "cool-rhythms"
+
+    [[projects.content]]
+    id = "copes_timetable"
+    url = "https://horariocopes.netlify.app/"
+    image = "horario"
+
+    [[projects.content]]
+    id = "darker"
+    url = ""
+    image = "darker"
+
+[[projects]]
+id = "mods"
+    [[projects.content]]
+    id = "bocs"
+    url = "https://gamebanana.com/mods/494099"
+    image = "bocs"

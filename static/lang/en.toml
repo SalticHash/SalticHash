@@ -1,0 +1,67 @@
+# ENGLISH
+
+
+
+# Projects under 'Games'
+[games]
+title = "Games"
+
+[games.pollimath]
+name = "PolliMath"
+desc = "A game about a chick and... Algebra?"
+
+[games.circulatory_system]
+name = "Circulatory System"
+desc = "Study about the functions of the circulatory system!"
+
+[games.gegagedigedagedago]
+name = "Gegagedigedagedago VS"
+desc = "Fight against the evil egg in an epic wild west showdown!!!1!!1"
+
+[games.space_arithmetic]
+name = "Space Arithmetic"
+desc = "A game about basic arithmetic."
+
+[games.habanero_cheese]
+name = "Habanero Cheese"
+desc = "An habanero cheese that burns trash..."
+
+# Projects under 'Websites'
+[web]
+title = "Websites"
+
+[web.celebration_envelopes]
+name = "Celebration Envelopes"
+desc = "Make celebration envelopes for your loved ones!"
+
+[web.midinotes]
+name = "MidiNotes"
+desc = "Connect your keyboard and practice any MIDI song!"
+
+[web.secret_santa]
+name = "Secret Santa"
+desc = "Anoyed that your secret santa breaks its flow? Well now no more!"
+
+[web.tileset_assembler]
+name = "Tileset Assembler"
+desc = "Make your Pizza Tower tilesets go smoothly! Also hide all collisions!"
+
+[web.coolrhythms]
+name = "CoolRhythms"
+desc = "The website for the youtuber CoolRhythms"
+
+[web.copes_timetable]
+name = "Copes Timetable 9-4°"
+desc = "Do you forget what lesson is next? Well this website will help you!"
+
+[web.darker]
+name = "Darker."
+desc = "Relieve your eyes with dark mode on every website."
+
+# Projects under 'Mods'
+[mods]
+title = "Mods"
+
+[mods.bocs]
+name = "Bunch Of Complex Stuff (BOCS)"
+desc = "GD like triggers in Pizza Tower"
