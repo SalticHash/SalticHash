@@ -1,6 +1,11 @@
 # ENGLISH
+[other]
+main = "Main"
+list = "List"
 
-
+[projects]
+title = "Main"
+header = "This are all of my current projects!"
 
 # Projects under 'Games'
 [games]
