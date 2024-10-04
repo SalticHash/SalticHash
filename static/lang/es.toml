@@ -1,5 +1,11 @@
 # ESPANOL
+[other]
+main = "Principal"
+list = "Lista"
 
+[projects]
+title = "Principal"
+header = "¡Estos son todos mis proyectos actuales!"
 
 # Projects under 'Games'
 [games]
