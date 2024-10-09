@@ -36,4 +36,4 @@ def error(text, statuscode = 400):
     return render_template("error.html", req=req)
 
 if __name__ == "__main__":
-    app.run(port=2727, debug=True)
+    app.run(port=2727)
