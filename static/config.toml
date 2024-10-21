@@ -1,32 +1,10 @@
 [[projects]]
-id = "games"
-    [[projects.content]]
-    id = "pollimath"
-    url = "https://redustmaniac.itch.io/pollimath"
-    image = "pollimath"
-
-    [[projects.content]]
-    id = "circulatory_system"
-    url = "https://redustmaniac.itch.io/sistema-circulatorio"
-    image = "sistemacirculatorio"
-
-    [[projects.content]]
-    id = "gegagedigedagedago"
-    url = "https://redustmaniac.itch.io/gegagedigedagedago-vs"
-    image = "vs"
-
-    [[projects.content]]
-    id = "space_arithmetic"
-    url = "https://redustmaniac.itch.io/aritmetica-espacial"
-    image = "espacio"
-
-    [[projects.content]]
-    id = "habanero_cheese"
-    url = "https://redustmaniac.itch.io/habanero-cheese"
-    image = "habanero"
-
-[[projects]]
 id = "web"
+    [[projects.content]]
+    id = "musicapp"
+    url = "/static/assets/binaries/MusicApp.apk"
+    image = "musicapp"
+
     [[projects.content]]
     id = "celebration_envelopes"
     url = "https://celebration-envelopes.vercel.app/"
@@ -61,6 +39,33 @@ id = "web"
     id = "darker"
     url = ""
     image = "darker"
+
+[[projects]]
+id = "games"
+    [[projects.content]]
+    id = "pollimath"
+    url = "https://redustmaniac.itch.io/pollimath"
+    image = "pollimath"
+
+    [[projects.content]]
+    id = "circulatory_system"
+    url = "https://redustmaniac.itch.io/sistema-circulatorio"
+    image = "sistemacirculatorio"
+
+    [[projects.content]]
+    id = "gegagedigedagedago"
+    url = "https://redustmaniac.itch.io/gegagedigedagedago-vs"
+    image = "vs"
+
+    [[projects.content]]
+    id = "space_arithmetic"
+    url = "https://redustmaniac.itch.io/aritmetica-espacial"
+    image = "espacio"
+
+    [[projects.content]]
+    id = "habanero_cheese"
+    url = "https://redustmaniac.itch.io/habanero-cheese"
+    image = "habanero"
 
 [[projects]]
 id = "mods"

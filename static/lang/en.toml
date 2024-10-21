@@ -35,6 +35,10 @@ desc = "An habanero cheese that burns trash..."
 [web]
 title = "Websites"
 
+[web.musicapp]
+name = "New: MusicApp"
+desc = "An Android Music app that can download and play music offline!"
+
 [web.celebration_envelopes]
 name = "Celebration Envelopes"
 desc = "Make celebration envelopes for your loved ones!"

@@ -35,6 +35,10 @@ desc = "Un queso de habanero que quema basura..."
 [web]
 title = "Páginas Web"
 
+[web.musicapp]
+name = "MusicApp"
+desc = "¡Una app para Android de Musica con descargas y reproduccion offline!"
+
 [web.celebration_envelopes]
 name = "Celebration Envelopes"
 desc = "¡Crea 'cartas' de celebración para tus conocidos!"

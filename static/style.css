@@ -63,14 +63,13 @@ img {
 .card-grid {
     display: grid;
     grid-gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(306px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(206px, 306px));
     grid-auto-columns: max-content;
     margin-bottom: 1em;
 }
 .section-title {
     font-size: xx-large;
-    margin-bottom: 0.25em;
-    margin-top: 0;
+    margin-block: 0.25em;
 }
 .title {
     font-size: xx-large;
