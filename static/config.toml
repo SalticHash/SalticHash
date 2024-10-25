@@ -1,9 +1,16 @@
 [[projects]]
-id = "web"
+id = "app"
     [[projects.content]]
     id = "musicapp"
     url = "/static/assets/binaries/MusicApp.apk"
     image = "musicapp"
+
+[[projects]]
+id = "web"
+    [[projects.content]]
+    id = "oxidation"
+    url = "https://practicar-oxidos.netlify.app"
+    image = "oxidos"
 
     [[projects.content]]
     id = "celebration_envelopes"

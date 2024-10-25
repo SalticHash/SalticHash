@@ -31,13 +31,21 @@ desc = "A game about basic arithmetic."
 name = "Habanero Cheese"
 desc = "An habanero cheese that burns trash..."
 
+# Projects under 'Apps'
+[app]
+title = "Apps"
+
+[app.musicapp]
+name = "MusicApp"
+desc = "An Android Music app that can download and play music offline!"
+
 # Projects under 'Websites'
 [web]
 title = "Websites"
 
-[web.musicapp]
-name = "New: MusicApp"
-desc = "An Android Music app that can download and play music offline!"
+[web.oxidation]
+name = "New: Practice Oxidation"
+desc = "Practice element oxidation numbers and more!"
 
 [web.celebration_envelopes]
 name = "Celebration Envelopes"
