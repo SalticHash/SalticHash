@@ -13,21 +13,12 @@
 
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino">
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
-<img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino"> <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"> <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
 
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code">
-<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio">
-<img src="https://skillicons.dev/icons?i=godot" alt="Godot" title="Godot">
-<img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio"> <img src="https://skillicons.dev/icons?i=godot" alt="Godot" title="Godot"> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows">
 
 ## Contact Info
 <a href="mailto:saltichash@gmail.com" title="Gmail">![Gmail Logo](https://skillicons.dev/icons?i=gmail)</a>
