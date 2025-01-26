@@ -39,3 +39,35 @@
 ## Views
 ![Views](https://profile-counter.glitch.me/SalticHash/count.svg)
 
+<details>
+    <summary><h2>Language Scoreboard</h2></summary>
+    Displays how many days each programing language was used by days of the week.
+    <ul>
+        <li>Started counting on 26/1/2025</li>
+        <li>Updated Daily</li>
+    </ul>
+</details>
+
+<table>
+    <tr>
+        <td></td>
+        <td>Mon</td>
+        <td>Tue</td>
+        <td>Wed</td>
+        <td>Thu</td>
+        <td>Fri</td>
+        <td>Sat</td>
+        <td>Sun</td>
+    </tr>
+        <tr>
+            <td>GML</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+</table>
+
