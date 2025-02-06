@@ -60,10 +60,10 @@
         <td>Sun</td>
     </tr>
         <tr>
-            <td>GML (x9)</td>
+            <td>GML (x10)</td>
             <td>2</td>
             <td>2</td>
-            <td>1</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
