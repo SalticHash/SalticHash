@@ -60,21 +60,21 @@
         <td>Sun</td>
     </tr>
         <tr>
-            <td>GML (x12)</td>
+            <td>GML (x13)</td>
             <td>2</td>
             <td>3</td>
             <td>3</td>
             <td>1</td>
-            <td>1</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
         </tr>
         <tr>
-            <td>None (x6)</td>
+            <td>None (x7)</td>
             <td>1</td>
             <td>0</td>
             <td>0</td>
-            <td>1</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
             <td>2</td>
