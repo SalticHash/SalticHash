@@ -68,22 +68,22 @@
             <td>2</td>
         </tr>
         <tr>
-            <td>C# (x6)</td>
+            <td>C# (x7)</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
-            <td>1</td>
+            <td>2</td>
             <td>0</td>
         </tr>
         <tr>
-            <td>None (x8)</td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
+            <td>None (x13)</td>
             <td>2</td>
             <td>1</td>
+            <td>1</td>
+            <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>3</td>
         </tr>
