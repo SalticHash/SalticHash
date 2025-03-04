@@ -68,13 +68,23 @@
             <td>2</td>
         </tr>
         <tr>
-            <td>C# (x7)</td>
+            <td>C# (x8)</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Godot (x2)</td>
+            <td>1</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
             <td>0</td>
         </tr>
         <tr>
