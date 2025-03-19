@@ -43,6 +43,7 @@
     <ul>
         <li>Started counting on 26/1/2025</li>
         <li>Updated Daily</li>
+        <li>Days elapsed 52</li>
     </ul>
 </details>
 
@@ -78,14 +79,14 @@
             <td>1</td>
         </tr>
         <tr>
-            <td>Godot (x7)</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
+            <td>Godot (x16)</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>None (x13)</td>
