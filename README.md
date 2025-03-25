@@ -89,14 +89,14 @@
             <td>2</td>
         </tr>
         <tr>
-            <td>None (x13)</td>
+            <td>None (x19)</td>
+            <td>3</td>
+            <td>1</td>
             <td>2</td>
-            <td>1</td>
-            <td>1</td>
+            <td>4</td>
             <td>3</td>
             <td>2</td>
-            <td>1</td>
-            <td>3</td>
+            <td>4</td>
         </tr>
 </table>
 
