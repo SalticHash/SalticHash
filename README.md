@@ -28,12 +28,9 @@
 ## Achievements
 - 🥈 I got 2nd place in OCI 2023.
 - 🏅 I participated in OII 2024 (No Medal)
+- 🥇 I got 1st place in OCI 2025.
 
 ## Stats
 ![SalticHash's Stats](https://github-readme-stats.vercel.app/api?username=SalticHash&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500)
 
 ![SalticHash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalticHash&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=500)
-
-## Views
-![Views](https://profile-counter.glitch.me/SalticHash/count.svg)
-
