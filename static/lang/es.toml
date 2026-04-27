@@ -31,12 +31,16 @@ desc = "Juego de aritmética básica."
 name = "Habanero Cheese"
 desc = "Un queso de habanero que quema basura..."
 
+[games.lines]
+name = "Lineas"
+desc = "Un juego educativo sobre intersecciones linea⁠-linea y circumferencias⁠-linea."
+
 # Projects under 'Apps'
 [app]
 title = "Aplicaciones"
 
 [app.musicapp]
-name = "MusicApp"
+name = "NachoMusic"
 desc = "¡Una app para Android de Musica con descargas y reproduccion offline!"
 
 # Projects under 'Websites'
@@ -67,13 +71,13 @@ desc = "Haz que los tilesets de Pizza Tower no den Lag! Tambien esconde las coli
 name = "CoolRhythms"
 desc = "¡El sitio web del Youtuber de música CoolRhythms!"
 
-[web.copes_timetable]
-name = "Horario Copes 9-4°"
-desc = "¿Te pierdes fácil? ¡Este horario cambia con el día y te dice qué lección sigue!"
+[web.flavortown_devlog_exporter]
+name = "Flavortown Devlog Exporter"
+desc = "Una extensión de buscadores para el programa de Hack Club, Flavortown; permite a los usuarios exportar la bitacora y detalles de los proyectos."
 
-[web.darker]
-name = "Darker."
-desc = "Alivia tus ojos con modo oscuro en todos los sitios web."
+[web.pyramid_scheme_translator]
+name = "Pyramid Scheme Translator"
+desc = "Una herramienta para el programa de referencias de Hack Club, \"Pyramid Scheme\"; permite a los usuarios traducir los posters a otros idiomas."
 
 # Projects under 'Mods'
 [mods]
@@ -82,3 +86,19 @@ title = "Mods"
 [mods.bocs]
 name = "Bunch Of Complex Stuff (BOCS)"
 desc = "Triggers de GD en Pizza Tower."
+
+# Achievements
+[achievements]
+title = "Logros"
+header = "Estos son mis logros"
+
+[achievements.courses]
+title = "Cursos"
+cs50x = "CS50x de Harvard"
+
+[achievements.olympiads]
+title = "Olimpiadas"
+oci = "Olimpiada Costarricense de Informática (OCI)"
+ioi = "Olimpiada Internacional de Informática (IOI)"
+oicc = "Olimpiada Centroamericana y Caribeña de Informática (OICC)"
+oii = "Olimpiada Iberoamericana de Informática (OII)"

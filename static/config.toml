@@ -2,7 +2,7 @@
 id = "app"
     [[projects.content]]
     id = "musicapp"
-    url = "/static/assets/binaries/MusicApp.apk"
+    url = "https://github.com/SalticHash/NachoMusic"
     image = "musicapp"
 
 [[projects]]
@@ -38,14 +38,14 @@ id = "web"
     image = "cool-rhythms"
 
     [[projects.content]]
-    id = "copes_timetable"
-    url = "https://horariocopes.netlify.app/"
-    image = "horario"
+    id = "flavortown_devlog_exporter"
+    url = "https://github.com/SalticHash/FlavortownDevlogExporter/"
+    image = "flavortown_devlog_exporter"
 
     [[projects.content]]
-    id = "darker"
-    url = ""
-    image = "darker"
+    id = "pyramid_scheme_translator"
+    url = "https://github.com/SalticHash/PyramidSchemeTranslator"
+    image = "pyramid_scheme_translator"
 
 [[projects]]
 id = "games"
@@ -66,13 +66,18 @@ id = "games"
 
     [[projects.content]]
     id = "space_arithmetic"
-    url = "https://redustmaniac.itch.io/aritmetica-espacial"
+    url = "https://github.com/SalticHash/SpaceArithmetic"
     image = "espacio"
 
     [[projects.content]]
     id = "habanero_cheese"
     url = "https://redustmaniac.itch.io/habanero-cheese"
     image = "habanero"
+
+    [[projects.content]]
+    id = "lines"
+    url = "https://github.com/SalticHash/Lines"
+    image = "lines"
 
 [[projects]]
 id = "mods"

@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    {{ lang.achievements.title }}
+{% endblock %}
+
+{% block header %}
+    {{ lang.achievements.header }}
+{% endblock %}
+
+{% block main %}
+    <h1>{{ lang.achievements.courses.title }}</h1>
+    <a href="https://cs50.harvard.edu/x/2023">{{ lang.achievements.courses.cs50x }} (2023)</a><br>
+
+    <h1>{{ lang.achievements.olympiads.title }}</h1>
+    <a href="/static/pdfs/OCI2023Cert.pdf">{{ lang.achievements.olympiads.oci }} 🥈 (2023)</a><br>
+    <a href="/static/pdfs/OII2024Cert.pdf">{{ lang.achievements.olympiads.oii }} (119°)❌🏅 (2024)</a><br>
+    <a href="/static/pdfs/OCI2025.pdf">{{ lang.achievements.olympiads.oci }} 🥇 (2025)</a><br>
+    <a href="???">{{ lang.achievements.olympiads.oicc }} (?°)❌🏅 (2025)</a><br>
+
+    <!-- <a href="---">{{ lang.achievements.olympiads.ioi }} ? (2026)</a><br> -->
+    <!-- <a href="---">{{ lang.achievements.olympiads.oii }} ? (2026)</a><br> -->
+    <!-- <a href="---">{{ lang.achievements.olympiads.oci }} ? (2026)</a><br> -->
+
+    <br><br><a href="/">Proyectos...</a>
+{% endblock %}

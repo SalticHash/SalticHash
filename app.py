@@ -19,9 +19,9 @@ def index():
 def view():
     return render_template("more.html")
 
-@app.route("/edu")
-def edu():
-    return render_template("edu.html")
+@app.route("/achievements")
+def achievements():
+    return render_template("achievements.html")
 
 @app.route('/socials')
 def manual():
